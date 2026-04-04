@@ -29,12 +29,14 @@ My current learning is primarily based on TryHackMe and Campfire Security.
 
 ## Repository Structure
 
+```
 cyber_fundamentals/
 │
-├── tryhackme/ # Course-specific notes and labs
-├── notes/ # General concepts and summaries
-├── writeups/ # Detailed lab walkthroughs
-└── resources/ # Tools, cheatsheets, references
+├── tryhackme/        # Course-specific notes and labs
+├── notes/            # General concepts and summaries
+├── writeups/         # Detailed lab walkthroughs
+└── resources/        # Tools, cheatsheets, references
+```
 
 ---
 
