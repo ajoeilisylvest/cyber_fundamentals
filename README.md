@@ -71,7 +71,3 @@ All material is for educational purposes only, and notes are for my own understa
 ## Status
 
 Actively learning and updating.
-
-Current streak on TryHackMe: 2
-
-Current streak on Campfire Security practice page: 1
